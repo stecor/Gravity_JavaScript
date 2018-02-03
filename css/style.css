@@ -1,0 +1,23 @@
+#centerCanvas {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 1px solid #d3d3d3;
+  margin-top: 30px;
+}
+
+form {
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  clear: both;
+  margin-auto: center;
+}
+
+.container input {
+  width: 10%;
+  clear: both;
+}
